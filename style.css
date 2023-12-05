@@ -1,0 +1,98 @@
+.firstcard {
+   width: 80%;
+   max-width: 500px;
+   background-color: beige;
+   margin-left: auto;
+   margin-right: auto;
+   margin-bottom: 60px;
+   margin-top: 60px;
+   padding: 20px;
+   font-family: sans-serif;
+   
+}
+
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+    background-color: bisque;
+    padding: 20px;
+    margin-top: -7px;
+   
+}
+
+hr {
+    height: 2px;
+    background-color: azure;
+    border-color: azure;
+}
+
+.titlename {
+    width: 50%;
+}
+
+.titleverse {
+    width: 50%;
+    text-align: right;
+}
+
+.titleheader h2, p {
+    display: inline-block;
+}
+
+.titlecontent img {
+    width: 100%;
+    height: 100%;
+}
+
+img {
+   margin-top: 20px;
+}
+
+/* second card */
+.secondcard {
+    width: 80%;
+    max-width: 500px;
+    background-color: beige;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    padding: 20px;
+    font-family: sans-serif;
+}
+
+/* footer */
+.footer {
+    background-color:bisque;
+    padding: 20px;
+    margin-bottom: -7px;
+    font-family: sans-serif;
+}
+
+.mainfooter h2 {
+    text-align: center;
+}
+
+.freepik{
+    text-align: center;
+}
+a:visited {
+    color: orange;
+}
+
+a:hover {
+    color: orangered;
+}
+
+a {
+    color: burlywood;
+}
+
+a:active {
+    color: orangered;
+}
+
+
+
+
+
